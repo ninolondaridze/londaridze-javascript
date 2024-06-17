@@ -11,7 +11,7 @@ function checkName (name) {
   if (name === 'John') {
     console.log('Hello John')
   } else {
-    console.log('There is no such name')
+    console.log('There is no such name');
   }
 }
 
