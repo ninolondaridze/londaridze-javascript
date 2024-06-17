@@ -1,0 +1,8 @@
+Answer the questions
+Given bracket sequence: [((())()(())]]
+
+Can this sequence be considered correct?
+No, it is not correct.
+
+If the answer to the previous question is “no”, then what needs to be changed in it to make it correct?
+This sequence is incorrect because there is extra closing bracket ']' at the end. To make it correct, we need to remove ']' at the end.
